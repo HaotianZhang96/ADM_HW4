@@ -1,8 +1,8 @@
 # ADM_HW4
 ADM Homework4 finished by Haotian Zhang and Alessio Sentinelli
 
-## 1.ADM_hw4.ipynb
-    *ADM_HW1.ipynb integrated all the homework1 codes from Hackerrank by jupyter.
+## 1.ADM-h4-p1.ipynb
+    *ADM-h4-p1.ipynb is the all codes and solutions of Q1.
 
-## 2.stamps.pdf
-   *stamps.pdf is a file contained all the screenshots that assess the successful excercises I finished.
+## 2.ADM_HW4_pt2&3.ipynb
+    *ADM_HW4_pt2&3.ipynb is the all codes and solutions of Q2 and Q3.
